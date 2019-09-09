@@ -6,3 +6,5 @@ def using_while
 	end
   puts
 end
+
+using_while
